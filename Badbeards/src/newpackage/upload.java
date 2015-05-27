@@ -130,7 +130,11 @@ private Object jLabell;
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
+<<<<<<< HEAD
         jLabel3.setIcon(new javax.swing.ImageIcon("TEST.png"));
+=======
+        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\PL-AT\\BeardApp\\Beards\\TEST.png"));
+>>>>>>> c817e39d1058c9448a9a50fb9127cdcbe55b9d0e
     }//GEN-LAST:event_jButton2ActionPerformed
 
     /**
